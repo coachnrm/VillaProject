@@ -1,0 +1,11 @@
+/Users/home/Desktop/WhiteLagoon/WhiteLagoon.Domain/bin/Debug/net8.0/WhiteLagoon.Domain.deps.json
+/Users/home/Desktop/WhiteLagoon/WhiteLagoon.Domain/bin/Debug/net8.0/WhiteLagoon.Domain.dll
+/Users/home/Desktop/WhiteLagoon/WhiteLagoon.Domain/bin/Debug/net8.0/WhiteLagoon.Domain.pdb
+/Users/home/Desktop/WhiteLagoon/WhiteLagoon.Domain/obj/Debug/net8.0/WhiteLagoon.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Desktop/WhiteLagoon/WhiteLagoon.Domain/obj/Debug/net8.0/WhiteLagoon.Domain.AssemblyInfoInputs.cache
+/Users/home/Desktop/WhiteLagoon/WhiteLagoon.Domain/obj/Debug/net8.0/WhiteLagoon.Domain.AssemblyInfo.cs
+/Users/home/Desktop/WhiteLagoon/WhiteLagoon.Domain/obj/Debug/net8.0/WhiteLagoon.Domain.csproj.CoreCompileInputs.cache
+/Users/home/Desktop/WhiteLagoon/WhiteLagoon.Domain/obj/Debug/net8.0/WhiteLagoon.Domain.dll
+/Users/home/Desktop/WhiteLagoon/WhiteLagoon.Domain/obj/Debug/net8.0/refint/WhiteLagoon.Domain.dll
+/Users/home/Desktop/WhiteLagoon/WhiteLagoon.Domain/obj/Debug/net8.0/WhiteLagoon.Domain.pdb
+/Users/home/Desktop/WhiteLagoon/WhiteLagoon.Domain/obj/Debug/net8.0/ref/WhiteLagoon.Domain.dll

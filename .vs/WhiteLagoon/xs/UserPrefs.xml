@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{7D281F98-9932-4CFA-85B8-58C4B6A47CAF}|https">
+  <MonoDevelop.Ide.ItemProperties.WhiteLagoon.Infrastructure FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.WhiteLagoon.Domain FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.WhiteLagoon.web FirstBuild="True" PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WhiteLagoon.web/appsettings.json">
+    <Files>
+      <File FileName="WhiteLagoon.Domain/Entities/Villa.cs" Line="14" Column="45" />
+      <File FileName="WhiteLagoon.Infrastructure/Data/ApplicationDbContext.cs" Line="20" Column="1" />
+      <File FileName="WhiteLagoon.web/appsettings.json" Line="14" Column="1" />
+      <File FileName="WhiteLagoon.web/Program.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WhiteLagoon" expanded="True">
+            <Node name="WhiteLagoon.Application" expanded="True" />
+            <Node name="WhiteLagoon.Domain" expanded="True">
+              <Node name="Entities" expanded="True" />
+            </Node>
+            <Node name="WhiteLagoon.Infrastructure" expanded="True">
+              <Node name="Data" expanded="True" />
+            </Node>
+            <Node name="WhiteLagoon.web" expanded="True">
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WhiteLagoon.Application FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

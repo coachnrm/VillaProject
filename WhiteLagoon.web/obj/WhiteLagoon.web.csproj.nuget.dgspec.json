@@ -1,0 +1,217 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/home/Desktop/WhiteLagoon/WhiteLagoon.web/WhiteLagoon.web.csproj": {}
+  },
+  "projects": {
+    "/Users/home/Desktop/WhiteLagoon/WhiteLagoon.Domain/WhiteLagoon.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/home/Desktop/WhiteLagoon/WhiteLagoon.Domain/WhiteLagoon.Domain.csproj",
+        "projectName": "WhiteLagoon.Domain",
+        "projectPath": "/Users/home/Desktop/WhiteLagoon/WhiteLagoon.Domain/WhiteLagoon.Domain.csproj",
+        "packagesPath": "/Users/home/.nuget/packages/",
+        "outputPath": "/Users/home/Desktop/WhiteLagoon/WhiteLagoon.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/home/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100-rc.1.23463.5/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/home/Desktop/WhiteLagoon/WhiteLagoon.Infrastructure/WhiteLagoon.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/home/Desktop/WhiteLagoon/WhiteLagoon.Infrastructure/WhiteLagoon.Infrastructure.csproj",
+        "projectName": "WhiteLagoon.Infrastructure",
+        "projectPath": "/Users/home/Desktop/WhiteLagoon/WhiteLagoon.Infrastructure/WhiteLagoon.Infrastructure.csproj",
+        "packagesPath": "/Users/home/.nuget/packages/",
+        "outputPath": "/Users/home/Desktop/WhiteLagoon/WhiteLagoon.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/home/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/home/Desktop/WhiteLagoon/WhiteLagoon.Domain/WhiteLagoon.Domain.csproj": {
+                "projectPath": "/Users/home/Desktop/WhiteLagoon/WhiteLagoon.Domain/WhiteLagoon.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100-rc.1.23463.5/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/home/Desktop/WhiteLagoon/WhiteLagoon.web/WhiteLagoon.web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/home/Desktop/WhiteLagoon/WhiteLagoon.web/WhiteLagoon.web.csproj",
+        "projectName": "WhiteLagoon.web",
+        "projectPath": "/Users/home/Desktop/WhiteLagoon/WhiteLagoon.web/WhiteLagoon.web.csproj",
+        "packagesPath": "/Users/home/.nuget/packages/",
+        "outputPath": "/Users/home/Desktop/WhiteLagoon/WhiteLagoon.web/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/home/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/home/Desktop/WhiteLagoon/WhiteLagoon.Infrastructure/WhiteLagoon.Infrastructure.csproj": {
+                "projectPath": "/Users/home/Desktop/WhiteLagoon/WhiteLagoon.Infrastructure/WhiteLagoon.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100-rc.1.23463.5/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
